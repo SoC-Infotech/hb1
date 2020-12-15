@@ -10,3 +10,10 @@
 
 + Other online tutorials:
 Pygame tutorial: https://www.edureka.co/blog/pygame-tutorial
+
+--------------------------------------------------------------------
+Michael and William 
+Changes
+- Changed background color to white 
+- Changed button border color to red 
+- Added youtube is king and memelord on text file words 
