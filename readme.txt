@@ -29,17 +29,18 @@ Paper Prototype
 
 WIREFRAMES
 
-Changes based on feedback 
------------------------------
-Michael & William 
+William option - See Wire-frame-2
 
-Michael option 
+Michael option - See Wire-frame-2
 I decided to focus on perceived affordance making it simple for the user to figure what 
 a button function is the visible constraints werent really focused on as there is no 
 user input in the form of text. However the consistency is rather lacking as color for titles 
 are different however the return to homepage,sound,diffculty and pay buttons are all consistnat. 
 
+Wire-frame-2 was the final wire frame chosen
 
+Changes based on feedback 
+-----------------------------
 - Based hint point system to allow for diffculty scaling as well as a display for the 
 currently avilable points (user affordance improvements)
 
