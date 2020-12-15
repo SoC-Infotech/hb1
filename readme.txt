@@ -29,8 +29,20 @@ Paper Prototype
 
 WIREFRAMES
 
-Main Menu - 
+Changes based on feedback 
+-----------------------------
+Michael & William 
 
-Instructions - 
+Michael option 
+I decided to focus on perceived affordance making it simple for the user to figure what 
+a button function is the visible constraints werent really focused on as there is no 
+user input in the form of text. However the consistency is rather lacking as color for titles 
+are different however the return to homepage,sound,diffculty and pay buttons are all consistnat. 
 
-Gameplay - 
+
+- Based hint point system to allow for diffculty scaling as well as a display for the 
+currently avilable points (user affordance improvements)
+
+- Allows users to visually see list of letter already used (User affordance improvements)
+
+- Add colour to buttons,titles and for background (colour theory)   
