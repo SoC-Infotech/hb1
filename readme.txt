@@ -30,6 +30,7 @@ Paper Prototype
 WIREFRAMES
 
 William option - See Wire-frame-1
+My wire frame has a focus on consistancy trying to give all three screens a similer design, color theory and typography.
 
 Michael option - See Wire-frame-2
 I decided to focus on perceived affordance making it simple for the user to figure what 
