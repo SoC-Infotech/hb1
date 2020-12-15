@@ -29,7 +29,7 @@ Paper Prototype
 
 WIREFRAMES
 
-William option - See Wire-frame-2
+William option - See Wire-frame-1
 
 Michael option - See Wire-frame-2
 I decided to focus on perceived affordance making it simple for the user to figure what 
