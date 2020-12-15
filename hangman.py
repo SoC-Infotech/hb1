@@ -25,15 +25,15 @@ pygame.display.set_caption("Hangman - by Daniel")
 #-----------------------------------------------------------------
 # Create some global variables/constants for the game:
 # Declare colors "constants" for the game: background color, text color, key (button) background color
-BLACK = (0,0, 0)
+BLACK = (2,2, 2)
 WHITE = (255,255,255)
-RED = (255,0, 0)
-GREEN = (0,255,0)
-BLUE = (0,0,255)
+RED = (255,6, 0)
+GREEN = (10,255,0)
+BLUE = (5,20,255)
 LIGHT_BLUE = (102,255,255)
 
 # Declare "fonts" used to display guess word, display letters (in fact they are buttons), and display outcome when game is over.
-btn_font = pygame.font.SysFont("arial", 20)
+btn_font = pygame.font.SysFont("comic sans", 20)
 guess_font = pygame.font.SysFont("monospace", 24)
 lost_font = pygame.font.SysFont('arial', 45)
 
@@ -60,11 +60,11 @@ def redraw_game_window():
     global guessed
     global hangmanPics
     global limbs
-    win.fill(GREEN)
+    win.fill(WHITE)
     # Redraw all buttons (on keypad)
     for i in range(len(buttons)):
         if buttons[i][4]:
-            pygame.draw.circle(win, BLACK, (buttons[i][1], buttons[i][2]), buttons[i][3])
+            pygame.draw.circle(win, RED, (buttons[i][1], buttons[i][2]), buttons[i][3])
             pygame.draw.circle(win, buttons[i][0], (buttons[i][1], buttons[i][2]), buttons[i][3] - 2)
             label = btn_font.render(chr(buttons[i][5]), 1, BLACK)
             win.blit(label, (buttons[i][1] - (label.get_width() / 2), buttons[i][2] - (label.get_height() / 2)))
